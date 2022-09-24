@@ -51,25 +51,48 @@ sns.histplot(x='Postal Code',data=df)
 
 
 ### OUTPUT:
+
+DATA:
+
 ![output](./m1.png)
+
+DATA HEAD
 
 ![output](./m2.png)
 
+DATA INFORMATION
+
 ![output](./m3.png)
+
+DATA DESCRIBE
 
 ![output](./m4.png)
 
+DATA NULL VALUES
+
 ![output](./m5.png)
+
+DATA'S DATATYPES
 
 ![output](./m6.png)
 
+DATA'S VALUECOUNT
+
 ![output](./m7.png)
+
+BOXPLOT
 
 ![output](./m8.png)
 
+COUNTPLOT
+
 ![output](./m9.png)
 
+DISTRIBUTION PLOT
+
 ![output](./m10.png)
+
+HISTOGRAM PLOT
 
 ![output](./m11.png)
 
