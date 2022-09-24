@@ -25,6 +25,7 @@ Step6
 Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 ### Program
+```
 Developed by : Chintha.Nagajyothi
 Registration Number : 212221230015
 
@@ -49,7 +50,7 @@ sns.countplot(x='Postal Code',data=df)
 sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df)
 
-
+```
 ### OUTPUT:
 
 DATA:
